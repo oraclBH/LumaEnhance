@@ -5,6 +5,6 @@ A simple, fast and effective dark image enhancement/brightness equalization algo
 
 ![image](https://github.com/oraclBH/LumaEnhance/blob/main/Screenshots/cureline.png)
 
-#test image
+# test image
 
-![image]()
+![image](https://github.com/oraclBH/LumaEnhance/blob/main/Screenshots/lumaenhance.png)
